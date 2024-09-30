@@ -14,3 +14,8 @@ This repository is organized into separate folders for each Kaggle competition p
    - **Objective:** Predict the flood probability for given data points.
    - **Notebook:** `flood-regression/wat-s-ml-solution-flood-regression.ipynb`
    - **README:** Detailed explanation of the project, including data processing, model building, and evaluation.
+
+2. **[Insurance Classification](./insurance-classification)**
+   - **Objective:** Predict customer responses to insurance product offers based on demographic and vehicle-related features.
+   - **Notebook:** `eda-classification-insurance.ipynb`
+   - **README:** Detailed explanation of the project, including data preprocessing, feature engineering, model building, and evaluation.
